@@ -1,10 +1,10 @@
 var SHA1 = (function(){var exports={};/*
- * Modified by Yuichiro MASUI <masui@masuidrive.jp>
- * Tested on nodejs and Titanium Mobile
+ * Modified by NIKHIL PATIL <nikpat1988@gmail.com>
+ * Tested on tornado and Titanium Mobile
  * 
  * The JavaScript implementation of the Secure Hash Algorithm 1
  *
- *   Copyright (c) 2008  Takanori Ishikawa  <takanori.ishikawa@gmail.com>
+ *   Copyright (c) 2015  NIKHIL PATIL <nikpat1988@gmail.com>
  *   All rights reserved.
  *
  *   Redistribution and use in source and binary forms, with or without
@@ -38,8 +38,8 @@ var SHA1 = (function(){var exports={};/*
  * This is the javascript file for code which implements
  * the Secure Hash Algorithm 1 as defined in FIPS 180-1 published April 17, 1995.
  *
- *   Author: Takanori Ishikawa <takanori.ishikawa@gmail.com>
- *   Copyright: Takanori Ishikawa 2008
+ *   Author: NIKHIL PATIL <nikpat1988@gmail.com>
+ *   Copyright: NIKHIL PATIL 2015
  *   License: BSD License (see above)
  *
  * NOTE:

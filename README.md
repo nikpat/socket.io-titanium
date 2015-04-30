@@ -1,7 +1,13 @@
+
 # socket.io-titanium
+
+web sockets for titanium tested on ios and tornado.
 
 copy "ti-websocket-client.js" to your app Resources directory.
 
+
+
+———————————————————————
 var WebSocket = require('ti-websocket-client').WebSocket;
 
 ws = new WebSocket("ws://localhost:3000/");
